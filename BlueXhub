@@ -1,3 +1,6 @@
-_G.AutoTranslate = true
+_G.AutoTranslate = false
+_G.Language = "EN"
+_G.SelectedLanguage = "English"
 _G.SaveConfig = true
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
